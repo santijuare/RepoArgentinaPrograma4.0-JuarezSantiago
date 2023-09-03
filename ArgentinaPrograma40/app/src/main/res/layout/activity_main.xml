@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#F0F0F0">
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:hint="Ingrese la primera frase"
+        android:importantForAccessibility="yes"
+        android:background="#E0E0E0"
+        android:textColor="#333333"
+        android:padding="16dp"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:hint="Ingrese la segunda frase"
+        android:importantForAccessibility="yes"
+        android:background="#E0E0E0"
+        android:textColor="#333333"
+        android:padding="16dp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/buttonCompare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¡¡Presiona aquí para comparar!!"
+        android:textColor="@android:color/black"
+        android:background="@android:color/white"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:padding="12dp"/>
+
+    <TextView
+        android:id="@+id/textResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Resultado"
+        android:textColor="#333333"
+        android:paddingTop="16dp"/>
+
+</LinearLayout>
