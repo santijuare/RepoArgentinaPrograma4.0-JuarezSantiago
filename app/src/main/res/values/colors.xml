@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorFondo">#F0F0F0</color>
+        <color name="colorEditTextBackground">#E0E0E0</color>
+        <color name="colorEditTextText">#333333</color>
+        <color name="colorBoton">#3498DB</color>
+        <color name="colorBotonText">#FFFFFF</color>
+        <color name="colorTextResult">#333333</color>
+        <color name="purple_500">#9C27B0</color>
+        <color name="purple_700">#673AB7</color>
+        <color name="white">#FFFFFF</color>
+        <color name="teal_200">#03DAC6</color>
+        <color name="teal_700">#018786</color>
+        <color name="black">#000000</color>
+</resources>

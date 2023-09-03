@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArgentinaPrograma4.0</string>
+    <string name="edit_text">Ingrese el texto aquí</string>
+    <string name="boton">Presione el botón para comparar</string>
+</resources>
